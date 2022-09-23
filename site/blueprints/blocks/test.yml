@@ -1,0 +1,7 @@
+name: Test
+preview: fields
+wysiwyg: true
+fields:
+  text:
+    label: Text
+    type: text

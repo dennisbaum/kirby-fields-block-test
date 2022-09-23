@@ -1,0 +1,3 @@
+<div>
+  <?= $data->text() ?>
+</div>
